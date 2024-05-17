@@ -3,7 +3,7 @@
 
 
 **How to Use:**  
-This Script is an Current_City_Weather before that we need to import requestsThen just we need to run Current_City_Weather.py simple and easy to use.
+This Script is an Current_City_Weather before that we need to import requests. Then just we need to run Current_City_Weather.py simple and easy to use.
 
 
 **conclusion:** 
